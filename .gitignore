@@ -1,0 +1,16 @@
+npm-debug.log
+node_modules/
+build/
+dest/
+dist/
+site/
+.DS_Store
+static/.DS_Store
+.vscode/
+yarn-error.log
+.cache-loader
+.dll-link-plugin
+.ezpack/*
+!.ezpack/api-origins.json
+!.ezpack/ezmok-data.json
+.idea/*

@@ -1,0 +1,22 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "这是一个学习typescript的文档啦",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eva1963/learnTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eva1963/learnTS/issues"
+  },
+  "homepage": "https://github.com/eva1963/learnTS#readme",
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
