@@ -1,1 +1,1 @@
-这是一个学习typescript的文档啦
+初步学习typescript的文档
